@@ -1,0 +1,2 @@
+[Thu Feb 04 13:33:09.300292 2021] [fcgid:warn] [pid 10344:tid 1448] [client ::1:55796] mod_fcgid: read timeout from pipe, referer: http://localhost:10011/wp-cron.php?doing_wp_cron=1612420347.9315431118011474609375
+[Thu Feb 04 13:33:09.300292 2021] [core:error] [pid 10344:tid 1448] [client ::1:55796] End of script output before headers: wp-cron.php, referer: http://localhost:10011/wp-cron.php?doing_wp_cron=1612420347.9315431118011474609375
